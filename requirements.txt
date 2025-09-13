@@ -1,0 +1,61 @@
+# =============================
+# Zen BA – AI Business Analyst
+# =============================
+
+# --- Core LangChain + community integrations ---
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+
+# --- HuggingFace + Perplexity + OpenAI ---
+langchain-huggingface
+langchain-perplexity
+langchain-openai
+
+# --- Vector stores ---
+chromadb
+faiss-cpu
+
+# --- ML & Embeddings ---
+transformers
+torch
+sentence-transformers
+
+# --- UI / Frontend ---
+gradio
+
+# --- Utilities ---
+requests
+beautifulsoup4
+python-docx
+pypdf
+grandalf
+reportlab
+python-dotenv
+
+# --- Audio / Video processing ---
+youtube-transcript-api
+yt-dlp
+openai-whisper
+pydub
+speechrecognition
+
+# --- Task / Productivity integrations ---
+jira               # Atlassian JIRA API
+atlassian-python-api  # Confluence + Jira helper
+
+# --- Meeting / Collaboration SDKs ---
+google-api-python-client   # Google Meet integration
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+
+zoomus             # Zoom SDK/API
+microsoft-teams     # unofficial Teams API wrapper (or msgraph if preferred)
+O365               # Microsoft Graph API (Teams, Outlook, SharePoint, OneDrive)
+
+# --- NLP Enhancements ---
+spacy
+nltk
+scikit-learn
